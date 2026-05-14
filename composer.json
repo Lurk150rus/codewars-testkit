@@ -14,5 +14,7 @@
             "email": "unknownsomebody@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }
