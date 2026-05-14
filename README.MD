@@ -5,7 +5,7 @@ Ultra lightweight PHP testing framework for Codewars and kata solving.
 ## Installation
 
 ```bash
-composer require kirill/ktest
+composer require sasyk/codewars-testkit
 ```
 
 ---
